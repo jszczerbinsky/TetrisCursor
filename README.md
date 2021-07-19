@@ -12,8 +12,10 @@ mkdir -p ~/.icons
 cp -R tetris ~/.icons
 ```
 
-And add this to your .Xresources
+Add this to your .Xresources
 
 ```shell
 Xcursor.theme: tetris
 ```
+
+Restart Xorg
