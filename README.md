@@ -18,4 +18,4 @@ Add this to your .Xresources
 Xcursor.theme: tetris
 ```
 
-Restart Xorg
+Now You can restart Xorg and enjoy new cursor
